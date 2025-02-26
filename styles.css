@@ -10,3 +10,8 @@ body {
     background-color: red;
     font-family: "Comic Sans", "Comic Sans MS";
 }
+
+#cringe {
+    width: 130px;
+    height: 130px;
+}
